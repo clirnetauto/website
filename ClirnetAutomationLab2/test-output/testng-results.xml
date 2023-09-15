@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="20" passed="20" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-11T10:38:38 IST" name="Default suite" finished-at="2023-09-11T10:40:53 IST" duration-ms="135940">
+    <groups>
+    </groups>
+    <test started-at="2023-09-11T10:38:38 IST" name="Default test" finished-at="2023-09-11T10:40:53 IST" duration-ms="135940">
+      <class name="com.clirnet.sanity.MobileClirnetSanity">
+        <test-method signature="HomeReadMedwiki()[pri:0, instance:com.clirnet.sanity.MobileClirnetSanity@428640fa]" started-at="2023-09-11T10:38:38 IST" name="HomeReadMedwiki" finished-at="2023-09-11T10:38:49 IST" duration-ms="11762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeReadMedwiki -->
+        <test-method signature="homeclick()[pri:1, instance:com.clirnet.sanity.MobileClirnetSanity@428640fa]" started-at="2023-09-11T10:38:49 IST" name="homeclick" finished-at="2023-09-11T10:38:57 IST" duration-ms="7258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeclick -->
+        <test-method signature="doctubeclick()[pri:2, instance:com.clirnet.sanity.MobileClirnetSanity@428640fa]" started-at="2023-09-11T10:38:57 IST" name="doctubeclick" finished-at="2023-09-11T10:38:59 IST" duration-ms="2254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doctubeclick -->
+        <test-method signature="communityclick()[pri:3, instance:com.clirnet.sanity.MobileClirnetSanity@428640fa]" started-at="2023-09-11T10:38:59 IST" name="communityclick" finished-at="2023-09-11T10:39:00 IST" duration-ms="1298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- communityclick -->
+        <test-method signature="ExploreClick()[pri:4, instance:com.clirnet.sanity.MobileClirnetSanity@428640fa]" started-at="2023-09-11T10:39:00 IST" name="ExploreClick" finished-at="2023-09-11T10:39:02 IST" duration-ms="2280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExploreClick -->
+        <test-method signature="LiveCMEClick()[pri:5, instance:com.clirnet.sanity.MobileClirnetSanity@428640fa]" started-at="2023-09-11T10:39:02 IST" name="LiveCMEClick" finished-at="2023-09-11T10:39:05 IST" duration-ms="2248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LiveCMEClick -->
+        <test-method signature="LiveMedWikiClick()[pri:6, instance:com.clirnet.sanity.MobileClirnetSanity@428640fa]" started-at="2023-09-11T10:39:05 IST" name="LiveMedWikiClick" finished-at="2023-09-11T10:39:08 IST" duration-ms="3025" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LiveMedWikiClick -->
+        <test-method signature="ClinicalvideoClick()[pri:7, instance:com.clirnet.sanity.MobileClirnetSanity@428640fa]" started-at="2023-09-11T10:39:08 IST" name="ClinicalvideoClick" finished-at="2023-09-11T10:39:13 IST" duration-ms="5490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClinicalvideoClick -->
+        <test-method signature="ClickGrandRounds()[pri:8, instance:com.clirnet.sanity.MobileClirnetSanity@428640fa]" started-at="2023-09-11T10:39:13 IST" name="ClickGrandRounds" finished-at="2023-09-11T10:39:17 IST" duration-ms="4052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickGrandRounds -->
+        <test-method signature="CoursesClick()[pri:9, instance:com.clirnet.sanity.MobileClirnetSanity@428640fa]" started-at="2023-09-11T10:39:17 IST" name="CoursesClick" finished-at="2023-09-11T10:39:20 IST" duration-ms="3030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CoursesClick -->
+        <test-method signature="PollClick()[pri:10, instance:com.clirnet.sanity.MobileClirnetSanity@428640fa]" started-at="2023-09-11T10:39:20 IST" name="PollClick" finished-at="2023-09-11T10:39:24 IST" duration-ms="4036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PollClick -->
+        <test-method signature="DDXClick()[pri:11, instance:com.clirnet.sanity.MobileClirnetSanity@428640fa]" started-at="2023-09-11T10:39:24 IST" name="DDXClick" finished-at="2023-09-11T10:39:28 IST" duration-ms="3954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DDXClick -->
+        <test-method signature="Epaper()[pri:12, instance:com.clirnet.sanity.MobileClirnetSanity@428640fa]" started-at="2023-09-11T10:39:28 IST" name="Epaper" finished-at="2023-09-11T10:39:32 IST" duration-ms="4036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Epaper -->
+        <test-method signature="Telemed()[pri:13, instance:com.clirnet.sanity.MobileClirnetSanity@428640fa]" started-at="2023-09-11T10:39:32 IST" name="Telemed" finished-at="2023-09-11T10:39:36 IST" duration-ms="4021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Telemed -->
+        <test-method signature="DR()[pri:14, instance:com.clirnet.sanity.MobileClirnetSanity@428640fa]" started-at="2023-09-11T10:39:36 IST" name="DR" finished-at="2023-09-11T10:39:38 IST" duration-ms="1569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DR -->
+        <test-method signature="EditProfile()[pri:15, instance:com.clirnet.sanity.MobileClirnetSanity@428640fa]" started-at="2023-09-11T10:39:38 IST" name="EditProfile" finished-at="2023-09-11T10:39:53 IST" duration-ms="14851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EditProfile -->
+        <test-method signature="HeaderNavigation()[pri:16, instance:com.clirnet.sanity.MobileClirnetSanity@428640fa]" started-at="2023-09-11T10:39:53 IST" name="HeaderNavigation" finished-at="2023-09-11T10:40:10 IST" duration-ms="17244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HeaderNavigation -->
+        <test-method signature="TrendingNowClick()[pri:17, instance:com.clirnet.sanity.MobileClirnetSanity@428640fa]" started-at="2023-09-11T10:40:10 IST" name="TrendingNowClick" finished-at="2023-09-11T10:40:15 IST" duration-ms="5311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TrendingNowClick -->
+        <test-method signature="EbookDetail()[pri:18, instance:com.clirnet.sanity.MobileClirnetSanity@428640fa]" started-at="2023-09-11T10:40:15 IST" name="EbookDetail" finished-at="2023-09-11T10:40:33 IST" duration-ms="17905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EbookDetail -->
+        <test-method signature="LiveCmeDetail()[pri:19, instance:com.clirnet.sanity.MobileClirnetSanity@428640fa]" started-at="2023-09-11T10:40:33 IST" name="LiveCmeDetail" finished-at="2023-09-11T10:40:53 IST" duration-ms="20170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LiveCmeDetail -->
+      </class> <!-- com.clirnet.sanity.MobileClirnetSanity -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

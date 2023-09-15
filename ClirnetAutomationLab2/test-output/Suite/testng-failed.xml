@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.clirnet.sanity.MobileClirnetSanity">
+        <methods>
+          <include name="LiveMedWikiClick"/>
+          <include name="TrendingNowClick"/>
+          <include name="EditProfile"/>
+          <include name="Telemed"/>
+          <include name="ClinicalvideoClick"/>
+          <include name="EbookDetail"/>
+          <include name="ClickGrandRounds"/>
+          <include name="HomeReadMedwiki"/>
+          <include name="ExploreClick"/>
+          <include name="DR"/>
+          <include name="communityclick"/>
+          <include name="doctubeclick"/>
+          <include name="Epaper"/>
+          <include name="LiveCMEClick"/>
+          <include name="DDXClick"/>
+          <include name="LiveCmeDetail"/>
+          <include name="HeaderNavigation"/>
+          <include name="homeclick"/>
+          <include name="CoursesClick"/>
+          <include name="PollClick"/>
+        </methods>
+      </class> <!-- com.clirnet.sanity.MobileClirnetSanity -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
